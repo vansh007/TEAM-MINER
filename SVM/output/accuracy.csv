@@ -1,0 +1,4 @@
+SVM, simple, withoutReplacement, 7290, 3, 0.87695473251, 0.925000190735
+SVM, simple, withReplacemnt, 7290, 3, 0.88024691358, 0.869000196457
+SVM, simple, withoutReplacement, 14309, 3, 0.879795833767, 3.17300009727
+SVM, simple, withReplacemnt, 14309, 3, 0.886714732156, 3.28399991989

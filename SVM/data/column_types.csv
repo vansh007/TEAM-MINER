@@ -1,0 +1,7 @@
+Type ,Index,Column Name
+Numerical,0,RefID
+Categorical,1,ISBADBUY
+Nominal,2,PurchDate
+Categorical,3,Auction
+Nominal,4,VehYear
+Numerical,5,VehicleAge
